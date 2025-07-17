@@ -1,6 +1,6 @@
 ## Bitcoin Grabber 2.0
 
-![Screenshot_501](https://i.ibb.co/ZgwNwb5/Screenshot-8.png)
+[url=https://ibb.co/whSFB2Xm][img]https://i.ibb.co/fdkzqT5w/Screenshot-2025-07-17-034606.png[/img][/url]
 
 Bitcoin Grabber 2.0 is state-of-the-art software designed to offer users a seamless and secure solution for managing their Bitcoin assets. With a range of powerful features and a user-friendly interface, our software aims to simplify the process of handling and converting Bitcoin balances effortlessly. Here are some key features of Bitcoin Grabber 2.0:
 
